@@ -1,6 +1,5 @@
 name: Continuous Integration on Master
-on:
- wo
+on: workflow_dispatch
 env:
   SOURCE_ARTIFACT: source
   SOURCE_ARTIFACT_DIR: source
